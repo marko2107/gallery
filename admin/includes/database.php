@@ -1,10 +1,4 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: marko
- * Date: 15.12.2018.
- * Time: 11:59
- */
 require_once("new_config.php");
 
 class Database {
